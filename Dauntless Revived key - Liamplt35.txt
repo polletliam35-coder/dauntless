@@ -1,0 +1,10 @@
+Dauntless Revived account key
+
+Server: Dauntless Revived (82.153.118.176:443)
+Certificate: 9d25e5cfc3462af09ba9d83f815191a8e682401899891563ab01815beec6e988
+Username: Liamplt35
+Saved: 2026-10-08
+Key: UUK_16b738c199dc668c4493db2038c20b2ad92a89dcb63deac3
+
+Keep this file private: anyone who has this key can play as you on this server.
+To use it on another PC: Dauntless Revived Launcher > Join > Use an existing key > Load a backup file.
